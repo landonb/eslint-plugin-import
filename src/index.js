@@ -40,6 +40,9 @@ export const rules = {
 
   // deprecated aliases to rules
   'imports-first': require('./rules/imports-first'),
+
+  // React 15 --> 16 upgrade.
+  'fix-proptypes': require('./rules/fix-proptypes'),
 }
 
 export const configs = {
