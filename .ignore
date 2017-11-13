@@ -1,0 +1,6 @@
+.git/
+.trustme.log
+.vscode/
+node_modules/
+tags
+
